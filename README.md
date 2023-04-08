@@ -5,4 +5,8 @@ In recent Minecraft versions, the slash texts has also changed to include micros
 This resource pack changes it back to the old textures and the pre 1.12.2 slash texts <i>So no more bees :( ... for now</i><br>
 <i>Note that "Java Edition" can't be offset without mods to my knowledge</i><br><br>
 <hr>
+Example
+![image](https://user-images.githubusercontent.com/44788187/230720103-7da9ba6f-08ff-49b7-a04e-01bc7c41bba7.png)
+
+<hr>
 <i>Look, Before anyone goes to "cancel me", I'm not against anyone here, I'm just tried of big corporations pushing all of the bullshit into our faces to maximize profit</i>
