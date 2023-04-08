@@ -2,6 +2,7 @@
   "pack": {
     "description": "Minecraft Logo",
     "pack_format": 14,
-    "_comment": "Brings back old minecraft logo, by Lmay\nEdition.png can't be offset"
+    "_comment": "old minecraft logo and slash texts",
+    "description": "§7Brings back old minecraft logo and slash texts - win10Device"
   }
 }
